@@ -1,51 +1,53 @@
-prueba - Página de destino adaptable 🌐✨
+prueba - Responsive Landing Page 🌐✨
 
-Esta es una página de destino totalmente adaptable, basada en el diseño de SMIT - Web Batch 12 Módulo 1 en Figma. El proyecto utiliza HTML, CSS y Bootstrap. Se adapta perfectamente a diferentes tamaños de pantalla, garantizando una excelente experiencia de usuario en todos los dispositivos.
-🚀 Demo en vivo
+This is a fully responsive landing page created based on the SMIT - Web Batch 12 Module 1 design on Figma. The project uses HTML, CSS, Bootstrap. It adapts seamlessly to different screen sizes, ensuring a great user experience across devices.
+🚀 Live Demo
 
-Puedes ver la demo en vivo de la página de destino aquí:
+You can view the live demo of the landing page here:
 
-Características
+ Features
 
-Diseño limpio y moderno 🎨: Basado en el diseño de Figma proporcionado por SMIT. Elementos interactivos 🖱️:
 
-🛠️ Tecnologías utilizadas
+    Clean and Modern Design 🎨: Based on the Figma design provided by SMIT.
+    Interactive Elements 🖱️: 
 
-HTML5: para la estructura de la página web
-CSS3: para el estilo y la maquetación
-Bootstrap 5: para la maquetación y el diseño adaptable
+🛠️ Technologies Used
 
-🖥️ Instalación
+    HTML5 - For the structure of the webpage
+    CSS3 - For styling and layout
+    Bootstrap 5 - For layout and responsive design
 
-Clonar el repositorio:
+
+🖥️ Installation
+
+Clone the repository:
 
 git clone https://github.com/salva608/prueba-html-css.git
 
-Abrir la carpeta del proyecto:
+Open the project folder:
 
 cd Positivus
 
-Abrir index.html en el navegador para ver la página de destino.
+    Open index.html in your browser to view the landing page.
 
-📂 Estructura de carpetas
+📂 Folder Structure
 
+.
+├── assets
+│   │              # Fonts used in the project
+│   ├── css
+│   │   └── style.css      # Custom CSS styles
+│   └── img             # All images used in the project
+├── index.html             # Main HTML file
+└── README.md              # Project documentation
 
+👨‍💻 Author
 
-├── recursos
-│ │ # Fuentes utilizadas en el proyecto
-│ ├── css
-│ │ └── style.css # Estilos CSS personalizados
-│ └── img # Todas las imágenes utilizadas en el proyecto
-├── index.html # Archivo HTML principal
-└── README.md # Documentación del proyecto
+Salvador aponte
 
-👨‍💻 Autor
+    🐙 GitHub: salva608
+    📧 Email: totoalahielmejor@gmail.com
 
-Salvador Aponte
+🤝 Contributing
 
-🐙 GitHub: salva608
-📧 Correo electrónico: totoalahielmejor@gmail.com
-
-🤝 Contribuciones
-
-Siéntete libre de bifurcar el repositorio y enviar una solicitud de extracción. ¡Las contribuciones siempre son bienvenidas! 💡
+Feel free to fork the repository and submit a pull request. Contributions are always welcome! 💡
