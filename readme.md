@@ -1,60 +1,51 @@
-prueba - Responsive Landing Page 🌐✨
+prueba - Página de destino adaptable 🌐✨
 
-This is a fully responsive landing page created based on the SMIT - Web Batch 12 Module 1 design on Figma. The project uses HTML, CSS, Bootstrap. It adapts seamlessly to different screen sizes, ensuring a great user experience across devices.
-🚀 Live Demo
+Esta es una página de destino totalmente adaptable, basada en el diseño de SMIT - Web Batch 12 Módulo 1 en Figma. El proyecto utiliza HTML, CSS y Bootstrap. Se adapta perfectamente a diferentes tamaños de pantalla, garantizando una excelente experiencia de usuario en todos los dispositivos.
+🚀 Demo en vivo
 
-You can view the live demo of the landing page here:
-Positivus Live
-✨ Features
+Puedes ver la demo en vivo de la página de destino aquí:
 
-    Fully Responsive 📱: Works on all screen sizes, including desktops, tablets, and mobile devices.
-    Clean and Modern Design 🎨: Based on the Figma design provided by SMIT.
-    Interactive Elements 🖱️: 
-    Bootstrap Integration 🛠️: Used for quick layout and responsive grid system.
-    Cross-Browser Compatibility 🌍: Ensures consistent performance across different browsers.
+Características
 
-🛠️ Technologies Used
+Diseño limpio y moderno 🎨: Basado en el diseño de Figma proporcionado por SMIT. Elementos interactivos 🖱️:
 
-    HTML5 - For the structure of the webpage
-    CSS3 - For styling and layout
-    Bootstrap 5 - For layout and responsive design
+🛠️ Tecnologías utilizadas
 
+HTML5: para la estructura de la página web
+CSS3: para el estilo y la maquetación
+Bootstrap 5: para la maquetación y el diseño adaptable
 
-🖥️ Installation
+🖥️ Instalación
 
-Clone the repository:
+Clonar el repositorio:
 
-git clone https://github.com/JuanJoseRiwi/PruebaRiwi.git
+git clone https://github.com/salva608/prueba-html-css.git
 
-Open the project folder:
+Abrir la carpeta del proyecto:
 
 cd Positivus
 
-    Open index.html in your browser to view the landing page.
+Abrir index.html en el navegador para ver la página de destino.
 
-📂 Folder Structure
+📂 Estructura de carpetas
 
-.
-├── assets
-│   │              # Fonts used in the project
-│   ├── css
-│   │   └── style.css      # Custom CSS styles
-│   └── img             # All images used in the project
-├── index.html             # Main HTML file
-└── README.md              # Project documentation
 
-👨‍💻 Author
 
-JuanJose Guarin
+├── recursos
+│ │ # Fuentes utilizadas en el proyecto
+│ ├── css
+│ │ └── style.css # Estilos CSS personalizados
+│ └── img # Todas las imágenes utilizadas en el proyecto
+├── index.html # Archivo HTML principal
+└── README.md # Documentación del proyecto
 
-    🐙 GitHub: salva608
-    📧 Email: totoalahielmejor@gmail.com
+👨‍💻 Autor
 
-🤝 Contributing
+Salvador Aponte
 
-Feel free to fork the repository and submit a pull request. Contributions are always welcome! 💡
-📜 License
+🐙 GitHub: salva608
+📧 Correo electrónico: totoalahielmejor@gmail.com
 
-This project is open-source and available under the MIT License.
-🔥 Hashtags
-#HTML #CSS #JavaScript #Bootstrap #ResponsiveDesign #FrontendDevelopment #WebDesign #WebDevelopment #LandingPage #CrossBrowserCompatibility #MobileFirstDesign #FigmaToHTML #WebsiteDeveloper #GitHubProjects #JavaScriptAnimations #UIUXDesign #WebTechnologies #SaylaniSMIT #CleanCode #OpenSource
+🤝 Contribuciones
+
+Siéntete libre de bifurcar el repositorio y enviar una solicitud de extracción. ¡Las contribuciones siempre son bienvenidas! 💡
